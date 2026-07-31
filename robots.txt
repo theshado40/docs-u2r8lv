@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-8g2mw2.didir10protigya.com/sitemap.xml
